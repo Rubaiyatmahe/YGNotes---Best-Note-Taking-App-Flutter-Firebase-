@@ -1,8 +1,8 @@
 # YGNotes---Best-Note-Taking-App-Flutter-Firebase-
 For Andoird &amp; iOS Both
-![banner](https://user-images.githubusercontent.com/80895946/204752601-be919b58-d4c1-4719-89cb-c8148f8cb4cb.png)
 
-![banner](https://user-images.githubusercontent.com/80895946/204170374-b9357d71-9481-4bce-bb52-fb501798cc18.png)
+
+![banner](https://user-images.githubusercontent.com/80895946/204752601-be919b58-d4c1-4719-89cb-c8148f8cb4cb.png)
 ![1](https://user-images.githubusercontent.com/80895946/204170386-30ec5b57-cfac-4295-a193-91459bd456eb.png)
 ![2](https://user-images.githubusercontent.com/80895946/204170392-3e0764a7-0fd1-4975-81bd-274cd94ecb04.png)
 ![3](https://user-images.githubusercontent.com/80895946/204170395-52c3c60c-3466-4bfe-ad0a-482c8063d179.png)
